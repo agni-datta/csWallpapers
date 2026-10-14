@@ -1,9 +1,9 @@
 ---
 title: README
-aliases: README, 'README, "csWallpapers"'
+aliases: [README, 'README, "csWallpapers"']
 linter-yaml-title-alias: README
 date created: Wednesday, October 8th 2025, 11:20:50 pm
-date modified: Tuesday, August 18th 2026, 10:56:16 am
+date modified: Wednesday, October 14th 2026, 3:25:17 am
 ---
 
 <!-- @format -->
